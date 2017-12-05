@@ -9,7 +9,7 @@ This package contains a MATLAB implementation of the algorithm presented in the 
 For queries and other related issues, please contact Pratik Jawanpuria <pratik.jpuria@gmail.com> or Bamdev Mishra <bamdevm@gmail.com>. 
 
 
-##Installation:
+## Installation:
 -------------
 
 1) Run run_me_first.m (needed every session).
@@ -20,7 +20,7 @@ The proposed files are under the folder 'proposed'.
 
 
 
-##Disclaimer:
+## Disclaimer:
 -----------
 
 - All files are written by the authors except
