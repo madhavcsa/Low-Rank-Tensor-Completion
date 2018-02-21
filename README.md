@@ -1,10 +1,10 @@
 # Low-Rank-Tensor-Completion
-Code title: "A Dual Framework for Low-rank Tensor Completion"
+Code title: "A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion"
 
 (c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.jpuria@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
 
 This package contains a MATLAB implementation of the algorithm presented in the report 
-"A dual framework for low-rank tensor completion" by Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra; technical report arXiv preprint: 1712.01193 , 2017.
+"A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion" by Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra; technical report arXiv preprint: 1712.01193 , 2017.
 
 For queries and other related issues, please contact Pratik Jawanpuria <pratik.jpuria@gmail.com> or Bamdev Mishra <bamdevm@gmail.com>. 
 
