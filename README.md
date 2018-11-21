@@ -1,5 +1,4 @@
-# Low-Rank-Tensor-Completion
-Code title: "A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion"
+# A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion
 
 (c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.jpuria@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
 
