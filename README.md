@@ -7,7 +7,6 @@ For queries and other related issues, please contact Pratik Jawanpuria <pratik.i
 
 
 ## Installation:
--------------
 
 1) Run run_me_first.m (needed every session).
 2) Run compile_mex_c_files.m (needed to be done only once).
@@ -18,7 +17,6 @@ The proposed files are under the folder 'proposed'.
 
 
 ## Disclaimer:
------------
 
 - All files are written by the authors except
     - certain initial mex files were obtained from the works of Nicolas Boumal <nicolasboumal@gmail.com> and <michael.steinlechner@epfl.ch>.
@@ -27,7 +25,6 @@ The proposed files are under the folder 'proposed'.
 
 
 ## References:
------------
 
 Please cite the following work if you find the resources in this repository useful.
 
@@ -43,6 +40,5 @@ Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra. A Dual Framework for T
 
 
 ## License:
---------
 
 (c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.iitb@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
