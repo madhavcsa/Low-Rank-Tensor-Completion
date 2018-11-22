@@ -1,7 +1,5 @@
 # A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion
 
-(c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.iitb@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
-
 This package contains a MATLAB implementation of the algorithm presented in the report 
 "A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion" by Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra; NeurIPS, 2018.
 
@@ -43,3 +41,8 @@ Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra. A Dual Framework for T
 }
 </code></pre>
 
+
+## License:
+--------
+
+(c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.iitb@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
