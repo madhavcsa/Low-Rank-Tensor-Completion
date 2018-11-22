@@ -1,11 +1,11 @@
 # A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion
 
-(c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.jpuria@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
+(c) 2017-2018 Madhav Nimishakavi <madhav@iisc.ac.in>, Pratik Jawanpuria <pratik.iitb@gmail.com>, and Bamdev Mishra <bamdevm@gmail.com>.
 
 This package contains a MATLAB implementation of the algorithm presented in the report 
 "A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion" by Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra; NeurIPS, 2018.
 
-For queries and other related issues, please contact Pratik Jawanpuria <pratik.jpuria@gmail.com> or Bamdev Mishra <bamdevm@gmail.com>. 
+For queries and other related issues, please contact Pratik Jawanpuria <pratik.iitb@gmail.com> or Bamdev Mishra <bamdevm@gmail.com>. 
 
 
 ## Installation:
@@ -23,7 +23,7 @@ The proposed files are under the folder 'proposed'.
 -----------
 
 - All files are written by the authors except
-    - certain initial mex files by Nicolas Boumal <nicolasboumal@gmail.com> and <michael.steinlechner@epfl.ch>.
+    - certain initial mex files were obtained from the works of Nicolas Boumal <nicolasboumal@gmail.com> and <michael.steinlechner@epfl.ch>.
 
 - Manopt is downloaded from http://manopt.org.
 
