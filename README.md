@@ -28,5 +28,18 @@ The proposed files are under the folder 'proposed'.
 - Manopt is downloaded from http://manopt.org.
 
 
-    
+## References:
+-----------
+
+Please cite the following work if you find the resources in this repository useful.
+
+Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra. A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion. In Conference on Neural Information Processing Systems (NeurIPS), 2018. 
+
+<pre><code>@inproceedings{nimishakavi18,
+  title={A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion},
+  author={Nimishakavi, Madhav and Jawanpuria, Pratik and Mishra, Bamdev},
+  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2018}
+}
+</code></pre>
 
