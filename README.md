@@ -19,7 +19,7 @@ The proposed files are under the folder 'proposed'.
 ## Disclaimer:
 
 - All files are written by the authors except
-    - certain initial mex files were obtained from the works of Nicolas Boumal <nicolasboumal@gmail.com> and <michael.steinlechner@epfl.ch>.
+    - certain initial mex files were obtained from the works of Nicolas Boumal (<nicolasboumal@gmail.com>) and (<michael.steinlechner@epfl.ch>).
 
 - Manopt is downloaded from http://manopt.org.
 
