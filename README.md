@@ -28,7 +28,7 @@ The proposed files are under the folder 'proposed'.
 
 Please cite the following work if you find the resources in this repository useful.
 
-Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra. A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion. In Conference on Neural Information Processing Systems (NeurIPS), 2018. 
+Madhav Nimishakavi, Pratik Jawanpuria, and Bamdev Mishra. <a href="https://github.com/madhavcsa/Low-Rank-Tensor-Completion/blob/master/A%20dual%20framework%20for%20low-rank%20tensor%20completion_NeurIPS18.pdf">A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion</a>. In Conference on Neural Information Processing Systems (NeurIPS), 2018. 
 
 <pre><code>@inproceedings{nimishakavi18,
   title={A Dual Framework for Trace Norm Regularized Low-rank Tensor Completion},
